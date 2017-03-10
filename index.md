@@ -1,7 +1,9 @@
 ---
-layout: archive
+layout: home
 permalink: /
-title: "Latest Posts"
+title: "최근 글"
+image:
+  feature: https://mmistakes.github.io/skinny-bones-jekyll/images/wood-texture-1600x800.jpg
 ---
 
 <div class="tiles">
